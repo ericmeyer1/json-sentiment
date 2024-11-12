@@ -1,15 +1,21 @@
-# Requests, JSON, and basic NLP with spaCy
+# Web Mining & NLP - Module 4: Sentiment Analysis on Song Lyrics
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+### Summary
+In this project, we use Python's request and json modules to fetch and parse song lyrics from [lyrics.ovh](https://lyricsovh.docs.apiary.io/#).
+Finally, we use the spaCy and spaCyTextBlob libraries to analyze the sentiment of the lyrics and understand the polarity score.
 
-## Rubric
+### Skills Used
+- VS Code
+- GitHub
+- Git
+- Python
+- Jupyter
 
-* (Question 1) Lyrics printed: 1 pt
-* (Question 1) File created and submitted with notebook: 1 pt
-* (Question 2) Correct polarity reported: 1 pt
-* (Question 2) Question answered thoughtfully: 1 pt
-* (Question 3) Function defined as specified: 1 pt
-* (Question 3) Song lyrics retrieved and stored in separate files (0.5 pts/song): 2 pts
-* (Question 4) Polarity scores printed (with appropriate label containing song title, .25 pts/song): 1 pt
-* (Question 4) Questions answered thoughtfully: 2 pts
+### Modules and Libraries
+- **Requests:**Used to call API.
+- **Json:**Used to parse through API data and create a dictionary.
+- **spaCy:**Used for natural language processing.
+- **spaCyTextBlob:**Used for sentiment analysis on words.
+
+### How to download and setup spaCy for this project
+https://spacy.io/usage
