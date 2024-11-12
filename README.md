@@ -20,5 +20,5 @@ Finally, we use the spaCy and spaCyTextBlob libraries to analyze the sentiment o
 ## Download and Setup of spaCy
 https://spacy.io/usage
 
-## Want to chat about this project or data anlaytics? Feel free to reach me here:
-LinkedIn: https://www.linkedin.com/in/ericmeyer123/
+## Want to chat about this project or data anlaytics?
+Reach me on LinkedIn here: https://www.linkedin.com/in/ericmeyer123/
