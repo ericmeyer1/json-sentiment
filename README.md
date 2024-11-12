@@ -2,7 +2,7 @@
 
 ## Summary
 In this project, we use Python's request and json modules to fetch and parse song lyrics from the [lyrics.ovh](https://lyricsovh.docs.apiary.io/#) API.
-Finally, we use the spaCy and spaCyTextBlob libraries to analyze the sentiment of the lyrics and understand the polarity score.
+Finally, we use the spaCy and spaCyTextBlob libraries to analyze the sentiment of the lyrics by calculating the polarity score.
 
 ## Skills Used
 - VS Code
