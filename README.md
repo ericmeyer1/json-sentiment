@@ -1,7 +1,7 @@
 # Web Mining & NLP - Module 4: Sentiment Analysis on Song Lyrics
 
 ## Summary
-In this project, we use Python's request and json modules to fetch and parse song lyrics from the [lyrics.ovh](https://lyricsovh.docs.apiary.io/#) API.
+In this project, we use Python's requests and json modules to fetch and parse song lyrics from the [lyrics.ovh](https://lyricsovh.docs.apiary.io/#) API.
 Finally, we use the spaCy and spaCyTextBlob libraries to analyze the sentiment of the lyrics by calculating the polarity score.
 
 ## Skills Used
