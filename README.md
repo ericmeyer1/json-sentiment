@@ -11,7 +11,7 @@ Finally, we use the spaCy and spaCyTextBlob libraries to analyze the sentiment o
 - Python
 - Jupyter
 
-## Modules and Libraries
+## Libraries and Modules
 - __Requests:__ Used to call API.
 - __Json:__ Used to parse through API data and create a dictionary.
 - __spaCy:__ Used for natural language processing.
