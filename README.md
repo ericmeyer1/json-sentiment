@@ -17,8 +17,8 @@ Finally, we use the spaCy and spaCyTextBlob libraries to analyze the sentiment o
 - __spaCy:__ Used for natural language processing.
 - __spaCyTextBlob:__ Used for sentiment analysis on words.
 
-### Download and Setup of spaCy
+## Download and Setup of spaCy
 https://spacy.io/usage
 
-### Want to chat about this project or data anlaytics? Feel free to reach me here:
+## Want to chat about this project or data anlaytics? Feel free to reach me here:
 LinkedIn: https://www.linkedin.com/in/ericmeyer123/
